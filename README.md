@@ -1,4 +1,4 @@
-## Pix2Pix Model for Satellite Images Segmentation
+## Generative Adversarial Network Pix2Pix for Satellite Images Segmentation
 
 ![alt text](image-1.png)
 
